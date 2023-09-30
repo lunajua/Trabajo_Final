@@ -1,0 +1,6 @@
+25/09/2023,pancha luna,fisica,mario beron,2,b,-1
+25/09/2023,matias suarez,ingles,marita pardo,2,b,-1
+26/09/2023,moly luna,ingles,marita pardo,3,c,6
+28/09/2023,federico perez,fisica,mario beron,2,b,9
+28/09/2023,manuel perez,fisica,mario beron,2,b,-1
+29/09/2023,gonzalo catelan,ingles,marita pardo,3,c,-1
